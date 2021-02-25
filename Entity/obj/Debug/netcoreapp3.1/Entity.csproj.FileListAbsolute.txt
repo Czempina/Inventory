@@ -1,0 +1,5 @@
+C:\Users\adacze\source\repos\ArvatoInventory\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+C:\Users\adacze\source\repos\ArvatoInventory\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\adacze\source\repos\ArvatoInventory\Entity\obj\Debug\netcoreapp3.1\Entity.csprojAssemblyReference.cache
+C:\Users\adacze\source\repos\ArvatoInventory\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+C:\Users\adacze\source\repos\ArvatoInventory\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
