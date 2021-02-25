@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Station>
+@foreach (var p in Model)
+{
+    <div>
+        <h3>@p.Name</h3>
+        @p.Description
+        <h4>@p.ESPName</h4>
+    </div>
+}
